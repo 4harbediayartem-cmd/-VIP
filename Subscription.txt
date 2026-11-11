@@ -2,3 +2,7 @@
 #support-url: https://t.me/marusayvpn
 #subscription-userinfo: upload=0; download=0; total=0; expire=4102444800
 #announce:Лимитированная подписка!
+vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=thumbs.mycdn-io.ru&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&type=tcp&headerType=none#🇷🇺Россия💰
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hollandlanzerotte.xyz&fp=qq&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&type=tcp&headerType=none#🇳🇱Нидерланды💰
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=get.jarbook.net&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&type=tcp&headerType=none#🇫🇮Финляндия 💰
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swedenafteraventura.space&fp=chrome&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&type=tcp&headerType=none#🇺🇸ЮТУБ💰
