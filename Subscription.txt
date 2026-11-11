@@ -1,21 +1,4 @@
-#profile-title: ⚡️МАРУСЯ ВПН VIP⚡️🎮
+#profile-title: ⚡️Лимитированная подписка ⚡️🎮
 #support-url: https://t.me/marusayvpn
 #subscription-userinfo: upload=0; download=0; total=0; expire=4102444800
-#announce:Лучший бесплатный впн для тебя и твоих знакомых Маруся впн Лучший впн
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.28:443?encryption=none&security=reality&sni=bg4.univesalsrv.com&fp=firefox&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&type=grpc&serviceName=cloud.v1.RelayService&mode=gun#🇺🇸🎃⚡️Хулллоувин MAX SPEED 2⚡️
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp&headerType=none#🇨🇻Кабо верде
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@dev-services.shardshop.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dev-services.shardshop.cc&fp=firefox&pbk=X2d2whxbjH1nzAssBdWdYn70B-cNwGiFamG-bH_TYnw&sid=c71f4a92e8b3065d&type=tcp&headerType=none#🇬🇧 Великобритания #1 🚀⚡
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@apiv1.shardtech.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apiv1.shardtech.pro&fp=firefox&pbk=8OQPjAmeg0FW2sCiuVEGFlFf6ywpX-VtuADPFKLzjX8&sid=9b628d4db2a76038&type=tcp&headerType=none#🇬🇧 Великобритания #2 🚀⚡
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.28:443?encryption=none&security=reality&sni=bg4.univesalsrv.com&fp=firefox&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&type=grpc&serviceName=cloud.v1.RelayService&mode=gun#🇵🇱Польша|игровой 🎮
-vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=brointelengence.com&fp=random&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp&headerType=none#🇵🇱Польша быстрый WFI
-vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@d0c5.khovanski.mom:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=d0c5.khovanski.mom&fp=firefox&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836&type=tcp&headerType=none#🇷🇺Россия WIFI
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@94.156.114.89:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ge-s-1.pythonmakemigreat.wiki&fp=random&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&type=tcp&headerType=none#🇷🇺 Автоподбор LTE
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?encryption=none&security=tls&sni=fitindoor.net&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&host=fitindoor.net&path=%2Fapi%2Fv1%2Fupload&mode=auto#🇷🇺 Белые списки
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=qq.utiltools.site&fp=random&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000&type=tcp&headerType=none#🇷🇺 Белые списки #2
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#🇷🇺 Белые списки #3
-vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@alb1337.zaebalsanoproxyklinus.lol:28150?encryption=none&flow=xtls-rprx-vision&security=reality&sni=metrika.yandex.ru&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&type=tcp&headerType=none#🇪🇺🚫 YouTube без рекламы
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swebz.loozerp.wiki&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&type=tcp&headerType=none#🇸🇪 ✨️Швеция WIFI (РЕЗЕРВ)✨️
-vless://754cad22-cb6f-4083-b68e-aa6535418491@31.207.46.8:995?encryption=none&security=tls&sni=october-italy-new.dynuddns.com&fp=firefox&type=httpupgrade&host=october-italy-new.dynuddns.com&path=%2Fapi%2Fv1#🇳🇱🎁ТИК ТОК WIFI🎁
-vless://754cad22-cb6f-4083-b68e-aa6535418491@31.207.46.8:995?encryption=none&security=tls&sni=october-italy-new.dynuddns.com&fp=firefox&type=httpupgrade&host=october-italy-new.dynuddns.com&path=%2Fapi%2Fv1#🇳🇱🎁ТИК ТОК WIFI 2🎁
-vless://754cad22-cb6f-4083-b68e-aa6535418491@31.207.46.8:995?encryption=none&security=tls&sni=october-italy-new.dynuddns.com&fp=firefox&type=httpupgrade&host=october-italy-new.dynuddns.com&path=%2Fapi%2Fv1#🇳🇱🎁ТИК ТОК WIFI 3🎁
-
+#announce:Лимитированная подписка!
