@@ -2,15 +2,149 @@
 #support-url: https://t.me/marusayvpn
 #subscription-userinfo: upload=0; download=0; total=0; expire=4102444800
 #announce:Лимитированная подписка!
-vless://c8c2ddff-825a-46c3-bbdd-4a101de468a7@188.130.209.212:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=thumbs.mycdn-io.ru&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&sid=11979c0c9b2da371&type=tcp&headerType=none#🇷🇺Россия💰
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=hollandlanzerotte.xyz&fp=qq&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&type=tcp&headerType=none#🇳🇱Нидерланды💰
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=get.jarbook.net&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&type=tcp&headerType=none#🇫🇮Финляндия 💰
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@rowanfield.lalibobi.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rowanfield.lalibobi.online&fp=firefox&pbk=DeueXD24ph6cE_WRTTaPyuGX4jNVxjvJBHjENlrzsCM&sid=42695b59d82528a4&type=tcp&headerType=none#🇸🇪Швеция💰
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@146.19.128.58:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=volga.lalibobi.online&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8&type=tcp&headerType=none#🇮🇹Италия💰
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@179.254.127.143:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=est1.srv.luckdns.fun&fp=firefox&pbk=ASRlLIMLrchtPN9Jc8hC3HPjcDU_xzZlnQj2rcdUJ1k&sid=c5787235&type=tcp&headerType=none#🇩🇪Германия💰
-hysteria2://7d718630-7a1a-4af8-9332-aa0610634e8a@static.hain.lalibobi.online:443?security=tls&fm=%7B%7D&sni=static.hain.lalibobi.online#🇦🇷Аргентина💰
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=swedenafteraventura.space&fp=chrome&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&type=tcp&headerType=none#🇺🇸ЮТУБ💰
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@fieldnote.lalibobi.online:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fieldnote.lalibobi.online&fp=firefox&pbk=RDFOZiTfbF3lzMcJGSm9rODFi1ErzlqqADAHQUpU2xs&sid=d06c37930f65c360&type=tcp&headerType=none#🇺🇸Ютуб²💰
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=sorrel-gate.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&mode=auto&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#%F0%9F%87%AA%F0%9F%87%BA%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%201💰
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?encryption=none&security=tls&sni=tansy-wharf.cdn.cachefleet.com&alpn=h2&fp=chrome&type=xhttp&mode=auto&host=is-tw-relay.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇪🇺белые списки 2💰
-vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@95.129.234.108:8443?encryption=none&security=tls&sni=linden-crest.cdn.cachefleet.com&alpn=h2&fp=firefox&type=xhttp&mode=auto&host=fafeqdhlett2p5la6d.cdn.cachefleet.com&path=%2Fccxf5snr06b8xxb6#🇪🇺Белые списки 3💰
+{
+  "remarks": "🇷🇺Обход глушилок New🚀",
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    },
+    {
+      "tag": "http",
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "test102.rich-grove.test-cdn-kkk.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "ea78d53e-8d5a-47f5-b9bc-d23b5a388993",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "ru-images.lizeg.ru",
+          "fingerprint": "qq",
+          "publicKey": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+          "shortId": "50",
+          "spiderX": "/"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "network": "tcp,udp"
+      }
+    ]
+  }
+}
+{
+  "remarks": "🇷🇺Обход глушилок New🚀",
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "udp": true
+      }
+    },
+    {
+      "tag": "http",
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "test102.rich-grove.test-cdn-kkk.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "ea78d53e-8d5a-47f5-b9bc-d23b5a388993",
+                "encryption": "none",
+                "flow": "xtls-rprx-vision"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "ru-images.lizeg.ru",
+          "fingerprint": "qq",
+          "publicKey": "-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw",
+          "shortId": "50",
+          "spiderX": "/"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "network": "tcp,udp"
+      }
+    ]
+  }
+}
